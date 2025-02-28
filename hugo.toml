@@ -1,3 +1,55 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ashwor11.github.io/yildirimmuhendislik'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Yıldırım Mühendislik Danışmanlık Hizmetleri'
+theme = "paper"
+canonifyURLs=true
+[pagination]
+  pagerSize = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+rss = true
+
+[params]
+  color = 'linen'
+  instagram = 'yildirimmuhendislikduzce'           # instagram.com/YOUR_INSTAGRAM_ID
+  logo = "/logo.svg"
+
+[params.navigation]
+    #other stuff
+    
+
+avatar = '/images/nihat-sami-yildirim.jpg'
+  name = 'Nihat Sami Yıldırım'
+  bio = 'Jeofizik Mühendisi'
+
+[menu]
+  [[menu.main]]
+    identifier = "services"
+    name = "Hizmetler"
+    url = "/services/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Hakkımızda"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "resources"
+    name = "Kaynaklar"
+    url = "/resources/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "yemin"
+    name = "Mühendislik Yemini"
+    url = "/muhendislik-yemini/"
+    weight = 4
+
+  
