@@ -1,6 +1,6 @@
 ---
 title: "Arkeolojik Arama"
-weight: 2
+weight: 11
 ---
 
 Arkeolojik arama, tarihi yapıların ve gömülü kalıntıların tespiti için yapılan çalışmalardır. Jeofizik yöntemler sayesinde kazı yapılmadan önce yapıların konumu belirlenebilir.

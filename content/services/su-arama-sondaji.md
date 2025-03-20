@@ -1,7 +1,6 @@
 ---
 title: "Su Arama ve Su Sondajı"
-date: 2025-02-27
-weight: 2
+weight: 4
 ---
 
 ## Su Arama

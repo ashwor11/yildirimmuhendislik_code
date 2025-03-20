@@ -1,6 +1,6 @@
 ---
 title: "İmar Planına Esas Etütler"
-weight: 3
+weight: 5
 ---
 
 İmar planına esas etütler, şehirleşme ve yapılaşma sürecinde zeminin uygunluğunu belirlemek amacıyla yapılan çalışmalardır. Bu etütler, yapıların güvenli bir şekilde inşa edilmesini sağlamak için jeolojik, jeofizik ve hidrojeolojik analizler içerir.
